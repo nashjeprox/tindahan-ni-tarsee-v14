@@ -193,7 +193,7 @@ export default function Page(){
               <p className={`text-[13px] leading-[1.6] ${isDark ? "text-white/50" : "text-black/50"}`}>Tindahan ni Tarsee is a Tribune MSME empowerment initiative. Real stalls, real sales, zero middlemen. Built as Next.js V14 app/page.tsx preview.</p>
             </div>
             <div className="grid grid-cols-2 md:grid-cols-3 gap-8 text-[13px]">
-              <div><div className={`text-[11px] font-bold tracking-widest uppercase mb-3 ${isDark ? "text-white/30" : "text-black/40"}`}>Initiative</div><div className={`space-y-2 ${isDark ? "text-white/60" : "text-black/60"}`}><div>Since 2024</div><div>Alabang Town Center</div><div>Pag-IBIG Fund Partner</div></div></div>
+              <div><div className={`text-[11px] font-bold tracking-widest uppercase mb-3 ${isDark ? "text-white/30" : "text-black/40"}`}>Initiative</div><div className={`space-y-2 ${isDark ? "text-white/60" : "text-black/60"}`}><div>Since 2018</div><div>Alabang Town Center</div><div>Pag-IBIG Fund Partner</div></div></div>
               <div><div className={`text-[11px] font-bold tracking-widest uppercase mb-3 ${isDark ? "text-white/30" : "text-black/40"}`}>Empowerment</div><div className={`space-y-2 ${isDark ? "text-white/60" : "text-black/60"}`}><div>Visibility</div><div>Market Access</div><div>Corporate Gifting</div></div></div>
               <div><div className={`text-[11px] font-bold tracking-widest uppercase mb-3 ${isDark ? "text-white/30" : "text-black/40"}`}>Stack</div><div className={`space-y-2 ${isDark ? "text-white/60" : "text-black/60"}`}><div>Next.js V14</div><div>Tailwind CSS</div><div>Playfair + Inter</div></div></div>
             </div>
